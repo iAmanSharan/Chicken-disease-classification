@@ -1,0 +1,13 @@
+tensorflow
+matplotlib
+seaborn
+notebook
+numpy
+pandas
+dvc
+pyYAML
+ensure==1.0.2
+python-box==6.0.2
+Flask
+Flask-Cors
+-e .
